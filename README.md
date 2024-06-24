@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="./streamcompilerlogo.png">
+  <img src="./StreamCompilerLogo.png">
 </div>
